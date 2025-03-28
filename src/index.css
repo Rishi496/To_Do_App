@@ -12,16 +12,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-/* Basic reset and global styles */
 body {
   font-family: "Roboto", sans-serif;
   line-height: 1.6;
   background-color: whitesmoke;
   height: 100vh;
 }
-
-/* Responsive design */
 @media (max-width: 768px) {
   .MuiContainer-root {
     padding-left: 16px;
